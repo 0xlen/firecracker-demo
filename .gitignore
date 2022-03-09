@@ -1,0 +1,4 @@
+*.swp
+*.swo
+hello-rootfs.ext4
+hello-vmlinux.bin
